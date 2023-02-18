@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\bin\Debug\net6.0\Laboratorio_01_04.exe
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\bin\Debug\net6.0\Laboratorio_01_04.deps.json
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\bin\Debug\net6.0\Laboratorio_01_04.runtimeconfig.json
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\bin\Debug\net6.0\Laboratorio_01_04.dll
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\bin\Debug\net6.0\Laboratorio_01_04.pdb
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\obj\Debug\net6.0\Laboratorio_01_04.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\obj\Debug\net6.0\Laboratorio_01_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\obj\Debug\net6.0\Laboratorio_01_04.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\obj\Debug\net6.0\Laboratorio_01_04.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\obj\Debug\net6.0\Laboratorio_01_04.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\obj\Debug\net6.0\Laboratorio_01_04.dll
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\obj\Debug\net6.0\refint\Laboratorio_01_04.dll
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\obj\Debug\net6.0\Laboratorio_01_04.pdb
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\obj\Debug\net6.0\Laboratorio_01_04.genruntimeconfig.cache
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\Laboratorio_01_04\Laboratorio_01_04\obj\Debug\net6.0\ref\Laboratorio_01_04.dll
