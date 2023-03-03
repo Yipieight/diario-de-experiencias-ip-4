@@ -88,7 +88,7 @@ namespace laboratiorio_jose
             Console.WriteLine("operador No.3 = " + operador3);
             Console.WriteLine("operador No.4 = " + operador4);
 
-            //EXPRESION CUADRATICA
+            //EXPRESION CUADRATICA (4)
 
             double operador51 = (-1 * b);
             double operador52 = (b * b);
