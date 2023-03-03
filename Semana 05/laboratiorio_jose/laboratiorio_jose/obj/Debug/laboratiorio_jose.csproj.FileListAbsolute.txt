@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\laboratiorio_jose\laboratiorio_jose\bin\Debug\laboratiorio_jose.exe.config
+C:\Users\ASUS\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\laboratiorio_jose\laboratiorio_jose\bin\Debug\laboratiorio_jose.exe
+C:\Users\ASUS\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\laboratiorio_jose\laboratiorio_jose\bin\Debug\laboratiorio_jose.pdb
+C:\Users\ASUS\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\laboratiorio_jose\laboratiorio_jose\obj\Debug\laboratiorio_jose.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\laboratiorio_jose\laboratiorio_jose\obj\Debug\laboratiorio_jose.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\laboratiorio_jose\laboratiorio_jose\obj\Debug\laboratiorio_jose.exe
+C:\Users\ASUS\Documents\GitHub\diario-de-experiencias-ip-4\Semana 05\laboratiorio_jose\laboratiorio_jose\obj\Debug\laboratiorio_jose.pdb

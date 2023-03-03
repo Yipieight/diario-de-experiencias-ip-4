@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 Console.WriteLine("Ejercicio 1: Operaciones aritmeticas. ");
 Console.Write("Ingrese un numero: ");
 int n1 = Convert.ToInt32(Console.ReadLine()); //5
@@ -59,7 +60,7 @@ b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Ingrese el valor de la letra <C>");
 c = Convert.ToInt32(Console.ReadLine());
 
-int operador1 = ( a * b + c);
+int operador1 = (a * b + c);
 int operador2 = (a * (b + c));
 double operador3 = (double) (a / (b * c));
 double operador4 = (double)((3 * a) + (2 * b)) / c * c;
