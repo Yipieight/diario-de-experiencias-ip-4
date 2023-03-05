@@ -10,52 +10,51 @@ namespace laboratiorio_jose
     {
         static void Main(string[] args)
         {
-            ////EJERCICIO 1: OPERACIONES ARIRMÉTICAS (1)
-            //Console.WriteLine("Ejercicio 1: Operaciones aritmeticas. ");
-            //Console.Write("Ingrese un numer
-            //o: ");
-            //int n1 = Convert.ToInt32(Console.ReadLine()); //5
+            //EJERCICIO 1: OPERACIONES ARIRMÉTICAS (1)
+            Console.WriteLine("Ejercicio 1: Operaciones aritmeticas. ");
+            Console.Write("Ingrese un numero: ");
+            int n1 = Convert.ToInt32(Console.ReadLine()); //5
 
-            //Console.Write("Ingrese un numero: ");
-            //int n2 = Convert.ToInt32(Console.ReadLine()); //3
+            Console.Write("Ingrese un numero: ");
+            int n2 = Convert.ToInt32(Console.ReadLine()); //3
 
 
-            //int suma = n1 + n2;
-            //Console.WriteLine(n1 + " + " + n2 + " = " + suma);
+            int suma = n1 + n2;
+            Console.WriteLine(n1 + " + " + n2 + " = " + suma);
 
-            //int resta = n1 - n2;
-            //Console.WriteLine(n1 + " - " + n2 + " = " + resta);
+            int resta = n1 - n2;
+            Console.WriteLine(n1 + " - " + n2 + " = " + resta);
 
-            //int multi = n1 * n2;
-            //Console.WriteLine(n1 + " * " + n2 + " = " + multi);
+            int multi = n1 * n2;
+            Console.WriteLine(n1 + " * " + n2 + " = " + multi);
 
-            ////double n1d = n1;
-            ////double n2d = n2;
+            //double n1d = n1;
+            //double n2d = n2;
 
-            //double division = (double)n1 / n2;
-            //Console.WriteLine(n1 + " / " + n2 + " = " + division);
+            double division = (double)n1 / n2;
+            Console.WriteLine(n1 + " / " + n2 + " = " + division);
 
-            //int div1 = n1 / n2;
-            //Console.WriteLine(n1 + " / " + n2 + " = " + div1);
+            int div1 = n1 / n2;
+            Console.WriteLine(n1 + " / " + n2 + " = " + div1);
 
-            //int mod1 = n1 % n2;
-            //Console.WriteLine(n1 + " % " + n2 + " = " + mod1);
+            int mod1 = n1 % n2;
+            Console.WriteLine(n1 + " % " + n2 + " = " + mod1);
 
-            ////OPERACIONES BOOLEANAS (2)
+            //OPERACIONES BOOLEANAS (2)
 
-            //Console.WriteLine("");
-            //Console.WriteLine("EJERCICIO 2: Operaciones booleanas");
-            //Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("EJERCICIO 2: Operaciones booleanas");
+            Console.WriteLine("");
 
-            //bool bool1, bool2, bool3;
+            bool bool1, bool2, bool3;
 
-            //bool1 = n1 > n2;
-            //bool2 = n1 < n2;
-            //bool3 = n1 == n2;
+            bool1 = n1 > n2;
+            bool2 = n1 < n2;
+            bool3 = n1 == n2;
 
-            //Console.WriteLine(n1 + " > " + n2 + " = " + bool1);
-            //Console.WriteLine(n1 + " < " + n2 + " = " + bool2);
-            //Console.WriteLine(n1 + " = " + n2 + " = " + bool3);
+            Console.WriteLine(n1 + " > " + n2 + " = " + bool1);
+            Console.WriteLine(n1 + " < " + n2 + " = " + bool2);
+            Console.WriteLine(n1 + " = " + n2 + " = " + bool3);
 
             //EJERCICIO 3: Operaciones jerarquia de operaciones
 
