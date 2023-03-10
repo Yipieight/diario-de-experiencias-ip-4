@@ -20,3 +20,11 @@ C:\Users\ASUS\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio
 C:\Users\ASUS\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio02_04_Jose\Laboratorio02_04_Jose\obj\Debug\Laboratorio02_04_Jose.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio02_04_Jose\Laboratorio02_04_Jose\obj\Debug\Laboratorio02_04_Jose.exe
 C:\Users\ASUS\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio02_04_Jose\Laboratorio02_04_Jose\obj\Debug\Laboratorio02_04_Jose.pdb
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio02_04_Jose\Laboratorio02_04_Jose\bin\Debug\Laboratorio02_04_Jose.exe.config
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio02_04_Jose\Laboratorio02_04_Jose\bin\Debug\Laboratorio02_04_Jose.exe
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio02_04_Jose\Laboratorio02_04_Jose\bin\Debug\Laboratorio02_04_Jose.pdb
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio02_04_Jose\Laboratorio02_04_Jose\obj\Debug\Laboratorio02_04_Jose.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio02_04_Jose\Laboratorio02_04_Jose\obj\Debug\Laboratorio02_04_Jose.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio02_04_Jose\Laboratorio02_04_Jose\obj\Debug\Laboratorio02_04_Jose.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio02_04_Jose\Laboratorio02_04_Jose\obj\Debug\Laboratorio02_04_Jose.exe
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 07\Laboratorio02_04_Jose\Laboratorio02_04_Jose\obj\Debug\Laboratorio02_04_Jose.pdb

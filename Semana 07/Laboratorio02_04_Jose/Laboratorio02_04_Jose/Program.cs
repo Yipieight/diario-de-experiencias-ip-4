@@ -164,7 +164,6 @@ namespace Laboratorio02_04_Jose
                         multi = div025entero * 0.25;
                         resta = resta - multi;
                         decimal resta1 = (decimal)resta;
-                        Console.WriteLine(resta1);
                         Console.WriteLine("(" + div025entero + ")" + " Centavos de Q0.25");
 
                         multi = 0;
