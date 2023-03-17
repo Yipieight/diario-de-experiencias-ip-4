@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 08\Laboratorio03_semana08\Laboratorio03_semana08\obj\Debug\Laboratorio03_semana08.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 08\Laboratorio03_semana08\Laboratorio03_semana08\obj\Debug\Laboratorio03_semana08.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 08\Laboratorio03_semana08\Laboratorio03_semana08\obj\Debug\Laboratorio03_semana08.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 08\Laboratorio03_semana08\Laboratorio03_semana08\bin\Debug\Laboratorio03_semana08.exe.config
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 08\Laboratorio03_semana08\Laboratorio03_semana08\bin\Debug\Laboratorio03_semana08.exe
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 08\Laboratorio03_semana08\Laboratorio03_semana08\bin\Debug\Laboratorio03_semana08.pdb
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 08\Laboratorio03_semana08\Laboratorio03_semana08\obj\Debug\Laboratorio03_semana08.exe
+C:\Users\DELL\Documents\GitHub\diario-de-experiencias-ip-4\Semana 08\Laboratorio03_semana08\Laboratorio03_semana08\obj\Debug\Laboratorio03_semana08.pdb
