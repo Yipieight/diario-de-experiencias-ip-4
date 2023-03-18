@@ -77,7 +77,7 @@ namespace Laborotorio03_04
             //int resultado1 = 0;
             //string binario = "";
             //int numero1 = numero;
-           
+
             //while (numero > 0)
             //{
             //    resultado1 = numero % 2;
@@ -89,58 +89,58 @@ namespace Laborotorio03_04
             //Console.WriteLine("Su equivalente en binario es: " + binario);
             //Console.ReadLine();
             ////EJERCICIO 2
-            //Console.WriteLine("Ingrese un numero de base 10. (1,2,3,4,5,6,7,8 y 9)");
-            //int decima = Convert.ToInt32(Console.ReadLine());
-            //int mod = 0;
-            //string hexadecimal = "";
-            //int numero1 = decima;
+            Console.WriteLine("Ingrese un numero de base 10. (1,2,3,4,5,6,7,8 y 9)");
+            int decima = Convert.ToInt32(Console.ReadLine());
+            int mod = 0;
+            string hexadecimal = "";
+            int numero1 = decima;
 
-            //while (decima > 0)
-            //{
-            //    mod = decima % 16;
+            while (decima > 0)
+            {
+                mod = decima % 16;
 
-            //    if (mod == 10)
-            //    {
-            //        string letra = "A";
-            //        hexadecimal = letra + hexadecimal;
-            //    }
-            //    else if (mod == 11)
-            //    {
-            //        string letra = "B";
-            //        hexadecimal = letra + hexadecimal;
-            //    }
-            //    else if (mod == 12)
-            //    {
-            //        string letra = "C";
-            //        hexadecimal = letra + hexadecimal;
+                if (mod == 10)
+                {
+                    string letra = "A";
+                    hexadecimal = letra + hexadecimal;
+                }
+                else if (mod == 11)
+                {
+                    string letra = "B";
+                    hexadecimal = letra + hexadecimal;
+                }
+                else if (mod == 12)
+                {
+                    string letra = "C";
+                    hexadecimal = letra + hexadecimal;
 
-            //    }
-            //    else if (mod == 13)
-            //    {
-            //        string letra = "D";
-            //        hexadecimal = letra + hexadecimal;
-            //    }
-            //    else if (mod == 14)
-            //    {
-            //        string letra = "E";
-            //        hexadecimal = letra + hexadecimal;
-            //    }
-            //    else if (mod == 15)
-            //    {
-            //        string letra = "F";
-            //        hexadecimal = letra + hexadecimal;
-            //    }
-            //    else
-            //    {
-            //        hexadecimal = mod.ToString() + hexadecimal;
-            //    }
-            //    decima = decima / 16;
+                }
+                else if (mod == 13)
+                {
+                    string letra = "D";
+                    hexadecimal = letra + hexadecimal;
+                }
+                else if (mod == 14)
+                {
+                    string letra = "E";
+                    hexadecimal = letra + hexadecimal;
+                }
+                else if (mod == 15)
+                {
+                    string letra = "F";
+                    hexadecimal = letra + hexadecimal;
+                }
+                else
+                {
+                    hexadecimal = mod.ToString() + hexadecimal;
+                }
+                decima = decima / 16;
 
-            //}
+            }
 
-            //Console.WriteLine("El número ingresado en base 10 es: " + numero1);
-            //Console.WriteLine("Su equivalente en hexadecimal es: " + hexadecimal);
-            //Console.ReadKey();
+            Console.WriteLine("El número ingresado en base 10 es: " + numero1);
+            Console.WriteLine("Su equivalente en hexadecimal es: " + hexadecimal);
+            Console.ReadKey();
 
 
         }
